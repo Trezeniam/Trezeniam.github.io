@@ -7,5 +7,3 @@ image: /assets/images/image1.jpg
 ---
 This is a post.
 
-
-![]({{page.image | relative_url }})
