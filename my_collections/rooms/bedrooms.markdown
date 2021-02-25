@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The Bedrooms"
-date:   2021-01-01 22:34:26 +0000
+title:  "Bedrooms"
 categories: jekyll update
 ---
 
