@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Lounge"
-date:   2021-02-22 22:34:26 +0000
 categories: jekyll update
 ---
 
