@@ -7,3 +7,7 @@ image: /assets/images/image1blend.jpg
 St. Agnes is a lovely village on the North Coast of Cornwall.
 
 With pubs open all year round, lovely walks and cycling and the stunning beach at Trevaunance Cove it makes a great location for exploring Cornwall and particularly West Cornwall - all the way down to Lands End.
+
+Being an AONB (Area of Outstanding Beauty) and a Mining History site there is loads to explore. From the beach with rock pools, caves and the old harbour to the designated Dark Sky at night (bring your Telescope)
+
+<img src="{{site.baseurl}}/assets/images/old_quay1.jpg">
