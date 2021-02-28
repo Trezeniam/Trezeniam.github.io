@@ -6,15 +6,30 @@ image: /assets/images/image1blend.jpg
 ---
 St. Agnes is a lovely village on the North Coast of Cornwall.
 
-With pubs open all year round, lovely walks and cycling and the stunning beach at Trevaunance Cove it makes a great location for exploring Cornwall and particularly West Cornwall - all the way down to Lands End.
+With pubs open all year round, lovely walks and cycling and the stunning beach at Trevaunance Cove where you get the most marvellous sunsets.
+
+<div style="text-align: center">
+<img src="{{site.baseurl}}/assets/images/sunset.jpg" width="400" height="400"  >
+</div>
+
+Trezeniam in St. Agnes makes a great location for exploring Cornwall and particularly West Cornwall - all the way down to Lands End.
 
 Being an AONB (Area of Outstanding Beauty) and a Mining History site there is loads to explore. From the beach with rock pools, caves and the old harbour to the designated Dark Sky at night (bring your Telescope)
 
+<div style="text-align: center">
 <img src="{{site.baseurl}}/assets/images/old_quay1.jpg">
+</div>
 
 This was taken before Trezeniam was built. The 3 1960s cottages (Trezeniam is the Middle one) are on the right in the picture. 
 
 From Google Maps 
+<div style="text-align: center">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1614446935596!6m8!1m7!1sjMI0X9qJUN0EQtJGgs_-Jw!2m2!1d50.31701561250805!2d-5.20220313745329!3f82.96425617704399!4f2.4938495307094968!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
 
-The building work on Gail and Pauls on the right is now finished.
+<p>
+</p>
+The building work at Odelay (Gail and Pauls) on the right is now finished.
+
+Other St. Agnes links
+<a href="https://visitstagnes.com/">Vist St. Agnes</a>
