@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Lounge"
-categories: jekyll update
+place: 1
 ---
 
 <img src="{{site.baseurl}}/assets/images/lounge1.jpg">
@@ -11,4 +11,3 @@ The lounge has seating for at least 9 and has 3 leather sofas. 2 x 2 person and 
 <img src="{{site.baseurl}}/assets/images/lounge2.jpg">
 
 The TV has Freesat available and for our guests a Netflix account is linked - useful for those rainy days or evenings.
-

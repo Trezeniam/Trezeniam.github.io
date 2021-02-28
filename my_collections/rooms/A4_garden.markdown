@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Garden"
+place: 4
 ---
 
 Trezeniam has a very sunny small front garden and parking for 4 or 5 cars. The drive is shared with simon next door but we are always considerate to our neighbours.

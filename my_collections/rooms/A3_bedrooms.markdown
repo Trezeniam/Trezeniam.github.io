@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Bedrooms"
-categories: jekyll update
+place: 3
 ---
 
 Trezeniam has 4 bedrooms. 2 downstairs.

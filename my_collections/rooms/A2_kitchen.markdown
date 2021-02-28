@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Kitchen"
-categories: jekyll update
+place: 2
 ---
 
 <img src="{{site.baseurl}}/assets/images/kitchen.jpg">
