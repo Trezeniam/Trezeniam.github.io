@@ -4,7 +4,9 @@ title:  "Bedrooms"
 place: 3
 ---
 
-Trezeniam has 4 bedrooms. 2 downstairs.
+Trezeniam has 4 bedrooms. 2 downstairs. The bedrooms downstairs have been renovated since these pictures were taken. 
+The fibreboard ceilings have been removed and replaced. 
+The central lights are now modern LEDs and the rooms have been repainted in a neutral magenta.
 
 <img src="{{site.baseurl}}/assets/images/master_bed.jpg">
 
