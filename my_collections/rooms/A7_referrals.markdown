@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Comments" 
+title:  "Reviews" 
 ---
 
 Trezeniam is a really comfortable property for families and groups of friends. 

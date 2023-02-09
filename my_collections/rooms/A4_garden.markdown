@@ -12,7 +12,7 @@ The back garden is on several levels and can be steep in places. There is a smal
 
 <img src="{{site.baseurl}}/assets/images/garden.jpg">
 
-The washing line is a pull out one and goes from the fence on the right looking up the garden to a hook on the shed. 
+The washing line is a retractable one <a href="https://www.minky.com/laundry/laundry-accessories/15m-outdoor-retractable-reel-clothes-washing-line.html"> by Minky</a> and goes from the fence on the right looking up the garden to a hook on the shed. 
 
 Steps to the top level of the garden.
 

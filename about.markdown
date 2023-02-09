@@ -12,4 +12,4 @@ Built locally then stored and surfaced on [GitHub Pages](https://pages.github.co
 
 Contact details on the bottom of every webpage.
 
-Steve Ludlow - March 2021
+Last updated by Steve Ludlow - February 2023 with input from Eleanor Ludlow

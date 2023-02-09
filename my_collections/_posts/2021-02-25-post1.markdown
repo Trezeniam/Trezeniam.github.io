@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "St. Agnes" 
+title:  "For more information on St. Agnes please click here" 
 categories: jekyll update
 image: /assets/images/image1blend.jpg
 ---
@@ -20,7 +20,9 @@ Being an AONB (Area of Outstanding Beauty) and a Mining History site there is lo
 <img src="{{site.baseurl}}/assets/images/old_quay1.jpg">
 </div>
 
-This was taken before Trezeniam was built. The 3 1960s cottages (Trezeniam is the Middle one) are on the right in the picture. 
+The above picture was taken before Trezeniam was built. 
+
+The 3 1960s cottages (Trezeniam is the Middle one) are on the right in the picture. 
 
 From Google Maps 
 <div style="text-align: center">
