@@ -18,4 +18,4 @@ We had been looking for a property for 5 or 6 years and had made many trips down
 
 The links on the site should be relatively self-explantory. Most are links to areas of the property. The calendar shows bookings. The link to St.Agnes gives information about the village. Over time we will add more blog posts. Maybe we could add your contribution? 
 
-For those interested the tools used to build the website are in the "About" link.
+For those interested the tools used to build the website are in the "About" link. test test
